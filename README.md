@@ -1,1 +1,1 @@
-# info-sem-prag-neurips2024
+# Bridging semantics and pragmatics in information-theoretic emergent communication
