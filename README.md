@@ -4,12 +4,12 @@ Repository associated with the NeurIPS 2024 paper by Eleonora Gualdoni, Mycal Tu
 
 
 
-### **Data**
 
-**Demo**
+### **Demo**
 The best way to get a sense of our task and data of interest is to use our **demo** **`demo_target_distractor_selection.ipynb`**, which allows you to visualize ManyNames images, with annotated target - distractor pairs. 
 
-**External resources**
+### **External resources**
+
 1. Download the file **manynames.tsv** from the official webpage at [this link](https://amore-upf.github.io/manynames/) and store it in the **data** folder.
 2. Download Glove embeddings (**glove.6B.100d.txt**) from [the official release](https://nlp.stanford.edu/projects/glove/).
 3. To choose distractor objects, we passed [Anderson et al., 2018](https://arxiv.org/abs/1707.07998)'s object detection model on ManyNames images. We used the Detectron implementation of the model, available [here](https://github.com/airsplay/py-bottom-up-attention), and the corresponding [script](https://github.com/airsplay/py-bottom-up-attention/blob/master/demo/demo_feature_extraction_attr.ipynb) released by the authors. You can skip this step: in the **data** folder, we provide the file **manynames_detections.tsv** with all the information relevant for the next steps.
