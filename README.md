@@ -41,3 +41,17 @@ All the following scripts are located in the folder **src/scripts**.
 4. Generate csv files of the results with **`generate_csv_results.py`**
 5. Generate simplex plots with the R script **`simplex_plots.R`**
 
+### Cite
+
+```bibtex
+@inproceedings{Gualdoni2024bridging,
+ author = {Gualdoni, Eleonora and Tucker, Mycal and Levy, Roger and Zaslavsky, Noga},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {21059--21078},
+ publisher = {Curran Associates, Inc.},
+ title = {Bridging semantics and pragmatics in information-theoretic emergent communication},
+ volume = {37},
+ year = {2024}
+```
+}
