@@ -43,7 +43,7 @@ All the following scripts are located in the folder **src/scripts**.
 
 ### Use & Cite
 
-This repository is provided under the CC BY-SA 4.0 license, which means you can use, share, and adapt it however you'd like **on the condition** thatyou give appropriate credit and attribution, and any contributions that build upon this resource must be released under the same license. 
+This repository is provided under the CC BY-SA 4.0 license, which means you can use, share, and adapt it however you'd like, **on the condition** that you give appropriate credit and attribution, and any contributions that build upon this resource must be released under the same license. 
 
 Additionally, if you used this repo, please cite the following paper:
 
